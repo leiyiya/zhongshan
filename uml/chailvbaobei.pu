@@ -1,6 +1,6 @@
 @startuml
 
-skinparam defaultFontName Heiti
+skinparam defaultFontName STFangsong
 
 |#lightblue|员工|
 start

@@ -8,7 +8,7 @@
 
 ### 应聘人员
 
-![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/yingpinrenyuanshenpi.pu)
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/yingpinrenyuan.pu)
 
 ### 用人计划审批
 

@@ -2,21 +2,24 @@
 
 |#lightblue|人事主管|
 start
-repeat :入职手续;
+repeat :维护应聘人员信息;
 
-if (是否面试) then (是)
+:关联用人需求;
+|#lightgray|需求部门|
+if (确认是否面试) then (是)
     |#lightgray|人事主管|
     :通知面试;
 else (否)
     |#lightgray|人事主管|
-    :进入人才库;
+    :纳入人才库;
+    end
 endif
 
 |#lightblue|需求部门|
-
+repeat :确认面试结果;
 if (是否通过面试？) then (否) 
     |#lightgray|人事主管|
-    :进入人才库;
+    :纳入人才库;
     end
 else  (是) 
    |#lightgray|人事主管|

@@ -1,5 +1,7 @@
 @startuml
 
+skinparam defaultFontName Heiti
+
 |#lightblue|员工|
 start
 repeat :差旅报备填写;

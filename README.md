@@ -4,4 +4,16 @@
 
 ### 差旅报备
 
-![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/%E5%B7%AE%E6%97%85%E6%8A%A5%E5%A4%87.pu)
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/chailvbaobei.pu)
+
+### 应聘人员
+
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/yingpinrenyuanshenpi.pu)
+
+### 用人计划审批
+
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/yongrenjihuashenpi.pu)
+
+### 员工入职审批
+
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/caochun/zhongshan/main/uml/yuangongruzhishenpi.pu)

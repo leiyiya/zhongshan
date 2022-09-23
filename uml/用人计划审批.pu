@@ -1,0 +1,22 @@
+@startuml
+
+|#lightblue|需求部门|
+start
+repeat :用人需求;
+
+if (计划内外) then (内)
+    |#lightgray|人事主管|
+    :审批;
+else (外)
+    |#lightgray|人事主管|
+    :审批;
+    |#LightGreen|中心主任|
+    :审批;
+endif
+
+|#lightblue|需求部门|
+backward:重填报备;
+repeat while (通过？) is (否) not (是)
+
+stop
+@enduml
